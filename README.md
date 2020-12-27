@@ -8,4 +8,4 @@ These documents are released as Creative Commons By Attribution ShareAlike
 # Conversion regex
 To convert the names of the Ministry-issued reports to ISO formatted dates, I use the regex:
 Find: ```Cor.\\ Eng\\ (.*)-(.*).pdf```
-Replace: ```Cor.\\ Eng%\\ \1-\2.pdf 2020-\2-\1.pdf```
+Replace: ```Cor.\\\ Eng\\\ \1-\2.pdf 2020-\2-\1.pdf```
